@@ -1,7 +1,7 @@
 favorites=mintinstall.desktop,Thunar.desktop,xfce4-terminal.desktop
-recent=google-chrome.desktop,xfce-ui-settings.desktop
+recent=xfce4-terminal.desktop,google-chrome.desktop,xfce-ui-settings.desktop
 button-title=Applications
-button-icon=/usr/share/linuxmint/logo.png
+button-icon=/usr/share/icons/icsa_guys.png
 button-single-row=false
 show-button-title=false
 show-button-icon=true
