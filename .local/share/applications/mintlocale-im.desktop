@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Input method
+Comment=Language settings
+Icon=im-chooser
+Exec=mintlocale im
+NoDisplay=true
+Categories=DesktopSettings;GNOME;GTK;Settings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;XFCE;
+StartupNotify=false
+Terminal=false

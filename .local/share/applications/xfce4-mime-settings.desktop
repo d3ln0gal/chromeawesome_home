@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MIME Type Editor
+Comment=Associate applications with MIME types
+Icon=application-x-executable
+Exec=xfce4-mime-settings
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;XFCE;
+StartupNotify=true
+Terminal=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Workspaces
+Comment=Configure layout, names and margins
+Icon=xfce4-workspaces
+Exec=xfwm4-workspace-settings
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-PersonalSettings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=true
+Terminal=false

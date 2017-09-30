@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Network
+Comment=Configure network devices and connections
+Icon=preferences-system-network
+Exec=network-admin
+NoDisplay=true
+Categories=GNOME;GTK;Settings;System;X-GNOME-NetworkSettings;
+StartupNotify=true
+Terminal=false

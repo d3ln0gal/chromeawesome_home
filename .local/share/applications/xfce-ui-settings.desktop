@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Appearance
+Comment=Customize the look of your desktop
+Icon=preferences-desktop-theme
+Exec=xfce4-appearance-settings
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-PersonalSettings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=true
+Terminal=false

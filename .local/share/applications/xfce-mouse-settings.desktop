@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Mouse and Touchpad
+Comment=Configure pointer device behavior and appearance
+Icon=preferences-desktop-peripherals
+Exec=xfce4-mouse-settings
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-HardwareSettings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=true
+Terminal=false

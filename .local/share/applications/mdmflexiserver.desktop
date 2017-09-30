@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=New Login
+GenericName=New Login
+Comment=Log in as another user without logging out
+Icon=mdmflexiserver
+Exec=mdmflexiserver
+NoDisplay=true
+Categories=GNOME;GTK;Settings;System;
+StartupNotify=false
+Terminal=false

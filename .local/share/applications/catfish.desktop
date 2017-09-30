@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Catfish File Search
+GenericName=File search
+Comment=Search the file system
+Icon=catfish
+Exec=/usr/bin/catfish
+NoDisplay=true
+Categories=GNOME;Utility;
+StartupNotify=false
+Terminal=false

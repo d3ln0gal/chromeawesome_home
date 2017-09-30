@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Keyboard
+Comment=Edit keyboard settings and application shortcuts
+Icon=preferences-desktop-keyboard
+Exec=xfce4-keyboard-settings
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-HardwareSettings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=true
+Terminal=false

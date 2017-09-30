@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Desktop Settings
+Comment=Fine-tune desktop settings
+Icon=user-desktop
+Exec=mintdesktop
+NoDisplay=true
+OnlyShowIn=MATE;XFCE;
+Categories=DesktopSettings;GNOME;GTK;Settings;X-XFCE-PersonalSettings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=false
+Terminal=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Domain Blocker
+Comment=Block access to selected domain names
+Icon=mintnanny
+Exec=mintnanny
+NoDisplay=true
+NotShowIn=KDE;
+Categories=Application;Settings;System;
+StartupNotify=false
+Terminal=false

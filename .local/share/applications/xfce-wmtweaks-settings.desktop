@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Window Manager Tweaks
+Comment=Fine-tune window behaviour and effects
+Icon=wmtweaks
+Exec=xfwm4-tweaks-settings
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-PersonalSettings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=true
+Terminal=false

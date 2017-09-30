@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Software Manager
+Comment=Install new applications
+Icon=mintinstall
+Exec=gksu mintinstall
+NoDisplay=true
+NotShowIn=KDE;
+Categories=Application;Settings;System;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;XFCE;
+StartupNotify=false
+Terminal=false

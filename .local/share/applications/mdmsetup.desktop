@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Login Window
+Comment=Configure MDM login window appearance and behavior
+Icon=mdmsetup
+TryExec=/usr/sbin/mdmsetup
+Exec=gksu /usr/sbin/mdmsetup
+NoDisplay=true
+Categories=GNOME;GTK;Settings;System;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;XFCE;
+StartupNotify=true
+Terminal=false

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Bluetooth Transfer
+Comment=Send files via Bluetooth
+Icon=bluetooth
+Exec=bluetooth-sendto
+NoDisplay=true
+Categories=FileTools;GNOME;GTK;Utility;
+StartupNotify=true
+Terminal=false

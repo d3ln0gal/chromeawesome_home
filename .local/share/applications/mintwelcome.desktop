@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Welcome Screen
+Comment=Introduction to Linux Mint
+Icon=mintwelcome
+Exec=mintwelcome
+NoDisplay=true
+NotShowIn=KDE;
+Categories=DesktopSettings;GNOME;GTK;Settings;
+StartupNotify=false
+Terminal=false

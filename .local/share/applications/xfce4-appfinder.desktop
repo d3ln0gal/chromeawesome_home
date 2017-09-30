@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Application Finder
+Comment=Find and launch applications installed on your system
+Icon=edit-find
+Exec=xfce4-appfinder
+NoDisplay=true
+Categories=Utility;X-XFCE;
+StartupNotify=true
+Terminal=false

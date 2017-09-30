@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Notifications
+Comment=Customize how notifications appear on your screen
+Icon=xfce4-notifyd
+Exec=xfce4-notifyd-config
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-PersonalSettings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=true
+Terminal=false

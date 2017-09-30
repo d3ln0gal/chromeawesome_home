@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Settings Editor
+Comment=Graphical settings editor for Xfconf
+Icon=preferences-system
+Exec=xfce4-settings-editor
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=false
+Terminal=false

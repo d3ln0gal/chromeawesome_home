@@ -1,0 +1,6 @@
+Activating service name='org.freedesktop.thumbnails.Thumbnailer1'
+Successfully activated service 'org.freedesktop.thumbnails.Thumbnailer1'
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'

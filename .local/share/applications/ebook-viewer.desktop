@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=E-Book Viewer
+Comment=E-Book Viewer
+Icon=calibre
+TryExec=ebook-viewer
+Exec=ebook-viewer %F
+NoDisplay=false
+Categories=Graphics;Office;Viewer;
+MimeType=application/x-mobipocket-ebook;application/epub+zip;
+StartupNotify=false
+Terminal=false

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Software Sources
+Comment=Configure the sources for installable software and updates
+Icon=mintsources
+Exec=software-sources
+NoDisplay=true
+NotShowIn=KDE;
+Categories=GNOME;GTK;Settings;System;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;XFCE;
+MimeType=text/x-apt-sources-list;
+StartupNotify=false
+Terminal=false

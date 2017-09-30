@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Screensaver
+Comment=Change screensaver properties
+Icon=xscreensaver
+Exec=xscreensaver-demo
+NoDisplay=true
+Categories=DesktopSettings;Security;Settings;X-XFCE;
+StartupNotify=false
+Terminal=false

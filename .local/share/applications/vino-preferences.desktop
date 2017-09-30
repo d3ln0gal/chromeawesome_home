@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Desktop Sharing
+Comment=Choose how other users can remotely view your desktop
+Icon=preferences-desktop-remote-desktop
+Exec=vino-preferences
+NoDisplay=true
+OnlyShowIn=GNOME;LXDE;Unity;MATE;XFCE;
+Categories=Settings;
+StartupNotify=true
+Terminal=false

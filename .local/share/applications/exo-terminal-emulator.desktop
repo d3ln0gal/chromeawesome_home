@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Terminal Emulator
+Comment=Use the command line
+Icon=utilities-terminal
+Exec=exo-open --launch TerminalEmulator
+NoDisplay=true
+OnlyShowIn=XFCE;
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+StartupNotify=true
+Terminal=false

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Pix Image Viewer
+GenericName=Image Viewer
+Comment=View and organize your images
+Icon=pix
+Exec=pix %U
+NoDisplay=true
+Categories=2DGraphics;GNOME;GTK;Graphics;Photography;RasterGraphics;Viewer;
+MimeType=image/bmp;image/jpeg;image/gif;image/png;image/tiff;image/x-bmp;image/x-ico;image/x-png;image/x-pcx;image/x-tga;image/xpm;image/svg+xml;
+StartupNotify=true
+Terminal=false

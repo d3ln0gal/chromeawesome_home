@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=USB Stick Formatter
+Comment=Format a USB stick
+Icon=usb-creator
+Exec=mintstick -m format
+NoDisplay=false
+NotShowIn=KDE;
+Categories=GNOME;GTK;Utility;
+StartupNotify=false
+Terminal=false

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Text Editor
+Comment=Edit text files
+Icon=accessories-text-editor
+Exec=xed %U
+NoDisplay=true
+Categories=GTK;TextEditor;Utility;
+Keywords=text;editor;tabs;highlighting;code;multiple;files;pluggable;notepad;
+MimeType=text/plain;
+StartupNotify=true
+Terminal=false

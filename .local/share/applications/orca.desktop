@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Orca Screen Reader
+GenericName=Screen Reader
+Comment=Provide access to graphical desktop environments via synthesized speech and/or refreshable braille
+Icon=orca
+Exec=orca --replace
+NoDisplay=false
+NotShowIn=Unity;
+Categories=GNOME;GTK;Utility;
+Keywords=screen reader;speech;braille;
+StartupNotify=true
+Terminal=false

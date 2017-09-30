@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=calibre
+GenericName=E-book library management
+Comment=E-book library management
+Icon=calibre-gui
+Exec=calibre %f
+NoDisplay=true
+Categories=Database;FileTools;Office;Qt;Viewer;
+MimeType=x-content/ebook-reader;
+StartupNotify=false
+Terminal=false

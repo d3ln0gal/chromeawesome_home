@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=About Me
+Comment=Configure your profile image and contact details
+Icon=mugshot
+Exec=/usr/bin/mugshot
+NoDisplay=true
+Categories=DesktopSettings;GNOME;GTK;Settings;X-GNOME-PersonalSettings;X-GNOME-Settings-Panel;X-XFCE;
+Keywords=Configuration;Profile;User;
+StartupNotify=false
+Terminal=false

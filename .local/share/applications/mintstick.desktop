@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=USB Image Writer
+Comment=Make a bootable USB stick
+Icon=usb-creator
+Exec=mintstick -m iso
+NoDisplay=true
+NotShowIn=KDE;
+Categories=GNOME;GTK;Utility;
+StartupNotify=false
+Terminal=false

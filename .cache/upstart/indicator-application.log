@@ -1,0 +1,16 @@
+
+(process:31335): indicator-application-service-CRITICAL **: Unable to send ApplicationRemoved signal: The connection is closed
+
+(process:31335): indicator-application-service-WARNING **: Name Lost
+
+(process:955): indicator-application-service-WARNING **: Name Lost
+
+(process:955): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:955): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:967): indicator-application-service-WARNING **: Name Lost
+
+(process:967): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:967): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed

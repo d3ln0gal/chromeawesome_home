@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Power Manager
+GenericName=Power Manager
+Comment=Settings for the Xfce Power Manager
+Icon=xfpm-ac-adapter
+Exec=xfce4-power-manager-settings
+NoDisplay=true
+NotShowIn=GNOME;KDE;Unity;
+Categories=DesktopSettings;GTK;Settings;X-XFCE-HardwareSettings;X-XFCE-SettingsDialog;XFCE;
+StartupNotify=true
+Terminal=false

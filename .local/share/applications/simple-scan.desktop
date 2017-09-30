@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Simple Scan
+GenericName=Document Scanner
+Comment=Scan Documents
+Icon=scanner
+Exec=simple-scan
+NoDisplay=true
+Categories=GNOME;GTK;Graphics;Scanning;
+Keywords=scan;scanner;flatbed;adf;
+StartupNotify=true
+Terminal=false

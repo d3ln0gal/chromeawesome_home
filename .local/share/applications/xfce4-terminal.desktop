@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Xfce Terminal
+GenericName=Terminal Emulator
+Comment=Terminal Emulator
+Icon=utilities-terminal
+Exec=xfce4-terminal
+NoDisplay=true
+Categories=GTK;Settings;System;TerminalEmulator;
+StartupNotify=true
+Terminal=false
