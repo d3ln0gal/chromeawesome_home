@@ -1,0 +1,25 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Chrome
+GenericName=Web Browser
+Comment=Access the Internet
+Icon=google-chrome
+Exec=/usr/bin/google-chrome-stable --password-store=basic %U
+NoDisplay=false
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;image/webp;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;
+StartupNotify=false
+Terminal=false
+
+Actions=NewWindow;NewPrivateWindow;
+
+[Desktop Action NewWindow]
+Name=New Window
+Exec=/usr/bin/google-chrome-stable
+OnlyShowIn=Unity
+
+[Desktop Action NewPrivateWindow]
+Name=New Incognito Window
+Exec=/usr/bin/google-chrome-stable --incognito
+OnlyShowIn=Unity
