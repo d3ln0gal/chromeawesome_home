@@ -1,7 +1,0 @@
-logrotate state -- version 2
-"/home/chromeawesome/.cache/upstart/startxfce4.log" 2017-9-30-6:2:29
-"/home/chromeawesome/.cache/upstart/upstart-event-bridge.log" 2017-9-30-6:2:29
-"/home/chromeawesome/.cache/upstart/gpg-agent.log" 2017-9-30-6:2:29
-"/home/chromeawesome/.cache/upstart/indicator-application.log" 2017-9-30-6:0:0
-"/home/chromeawesome/.cache/upstart/indicator-sound.log" 2017-9-30-6:2:29
-"/home/chromeawesome/.cache/upstart/dbus.log" 2017-9-30-6:2:29
