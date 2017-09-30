@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 31097
+gpgconf: warning: can not open config file /home/chromeawesome/.gnupg/gpg-agent.conf: No such file or directory

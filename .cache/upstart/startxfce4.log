@@ -1,0 +1,33 @@
+/usr/bin/startxfce4: X server already running on display :20
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[31180]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[31181]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:31162): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:31162): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/chromeawesome/.cache/sessions/xfce4-session-HP-Compaq-8200-Elite-USDT-PC:20, Does it exist? Permissions issue?
+
+
+Your Thunar settings have been migrated to Xfconf.
+The config file "/etc/xdg/xdg-xfce/Thunar/thunarrc"
+is not used anymore.
+
+
+** (vino-server:31199): WARNING **: The desktop sharing service is not enabled, so it should not be run.
+
+(polkit-gnome-authentication-agent-1:31201): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:31201): polkit-gnome-1-WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+/usr/share/system-config-printer/applet.py:45: PyGIWarning: Notify was imported without specifying a version first. Use gi.require_version('Notify', '0.7') before import to ensure that the right version gets loaded.
+  from gi.repository import Notify
+
+(xfsettingsd:31189): GLib-GObject-CRITICAL **: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:31189): GLib-GObject-CRITICAL **: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+mintUpdate(21227): Operation not permitted
+mintUpdate: no process found
+
+(nm-applet:31223): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(mintUpdate.py:31236): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Gkr-Message: secret service operation failed: The name org.freedesktop.secrets was not provided by any .service files
