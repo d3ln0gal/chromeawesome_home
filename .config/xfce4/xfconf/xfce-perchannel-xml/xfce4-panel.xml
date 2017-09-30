@@ -17,6 +17,7 @@
         <value type="int" value="8"/>
         <value type="int" value="4"/>
         <value type="int" value="2"/>
+        <value type="int" value="9"/>
         <value type="int" value="3"/>
         <value type="int" value="15"/>
         <value type="int" value="7"/>
@@ -61,7 +62,7 @@
         <value type="string" value="com.canonical.indicator.sound"/>
       </property>
     </property>
-    <property name="plugin-9" type="empty">
+    <property name="plugin-9" type="string" value="pager">
       <property name="items" type="empty"/>
     </property>
     <property name="plugin-10" type="empty">
