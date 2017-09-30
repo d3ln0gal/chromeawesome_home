@@ -1,7 +1,7 @@
 favorites=google-chrome.desktop,chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default.desktop,chrome-aohghmighlieiainnegkcijnfilokake-Default.desktop,chrome-apdfllckaahabafndbhieahigkjlhalf-Default.desktop,chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.desktop
 recent=xfce4-taskmanager.desktop,orca.desktop,xfce-settings-manager.desktop,google-chrome.desktop
 button-title=Applications
-button-icon=/usr/share/icons/icsa_guys.png
+button-icon=/home/chromeawesome/.icons/icsa_guys.png
 button-single-row=false
 show-button-title=false
 show-button-icon=true
