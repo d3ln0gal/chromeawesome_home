@@ -43,6 +43,7 @@
     <property name="plugin-6" type="empty">
       <property name="names-visible" type="array">
         <value type="string" value="networkmanager applet"/>
+        <value type="string" value="task manager"/>
         <value type="string" value="bluetooth"/>
       </property>
       <property name="show-frame" type="empty"/>
@@ -64,6 +65,7 @@
     </property>
     <property name="plugin-9" type="string" value="pager">
       <property name="items" type="empty"/>
+      <property name="rows" type="uint" value="1"/>
     </property>
     <property name="plugin-10" type="empty">
       <property name="items" type="empty"/>

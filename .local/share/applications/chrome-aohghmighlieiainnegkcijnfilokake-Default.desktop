@@ -1,10 +1,11 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
 Version=1.0
-Terminal=false
 Type=Application
 Name=Google Docs
-Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=aohghmighlieiainnegkcijnfilokake
 Icon=chrome-aohghmighlieiainnegkcijnfilokake-Default
-NoDisplay=true
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=aohghmighlieiainnegkcijnfilokake
+NoDisplay=false
+Categories=Other;
 StartupWMClass=crx_aohghmighlieiainnegkcijnfilokake
+StartupNotify=false
+Terminal=false

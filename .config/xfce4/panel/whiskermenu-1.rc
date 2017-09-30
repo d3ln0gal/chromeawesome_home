@@ -1,5 +1,5 @@
-favorites=xfce4-terminal.desktop
-recent=xfce-workspaces-settings.desktop,xfce4-terminal.desktop,google-chrome.desktop
+favorites=
+recent=xfce4-taskmanager.desktop,orca.desktop,xfce-settings-manager.desktop,google-chrome.desktop
 button-title=Applications
 button-icon=/usr/share/icons/icsa_guys.png
 button-single-row=false
